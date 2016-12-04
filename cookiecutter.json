@@ -1,0 +1,8 @@
+{
+	"plugin_name": "My Plugin",
+	"plugin_namespace": "MyPlugin",
+    "plugin_author": "Plugin Author",
+	"plugin_description": "My plugin is awesome",
+	"plugin_homepage": "https://github.com/kanboard/plugin-myplugin"
+}
+
