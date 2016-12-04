@@ -3,9 +3,13 @@ Cookiecutter for Kanboard plugins
 
 This project create a skeleton project to develop a Kanboard plugin.
 
+Install Cookiecutter:
+
 ```bash
 pip install -U cookiecutter
 ```
+
+Run Kanboard cookiecutter:
 
 ```bash
 cookiecutter gh:kanboard/cookiecutter-plugin
